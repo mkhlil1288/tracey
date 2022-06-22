@@ -1,0 +1,2 @@
+Copyright © 2019 by BravoTeam <div class="f-visa"><img src="<?php echo e(asset('icon/ico_paymethod.svg')); ?>" alt="payments" class="img-responsive"></div>
+<?php /**PATH /home/m5lil/Sites/mytravel/resources/views/welcome.blade.php ENDPATH**/ ?>
